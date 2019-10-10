@@ -70,7 +70,7 @@ namespace AttributeDemo
 
     public class MyApplication
     {
-        public string Name { get; }
+        public string Name { get; private set; }
 
         public MyApplication(string name)
         {
@@ -89,7 +89,7 @@ namespace AttributeDemo
             {
                 if (!string.IsNullOrWhiteSpace(Name))
                 {
-                    ConsolePrint.Message($"This application name is \"{Name}\"", MessageType.INFO);
+                    ConsolePrint.Message(string.Format("This application name is \"{0}\"", Name), MessageType.INFO);
                 }
 
                 IRun run = new TestClass();

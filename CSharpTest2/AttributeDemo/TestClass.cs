@@ -38,7 +38,7 @@ namespace AttributeDemo
             var attributeType = typeof(MyAttributeTestAttribute);
             if (Attribute.IsDefined(type, attributeType))
             {
-                ConsolePrint.Message($"Class name : {type.Name}");
+                ConsolePrint.Message(string.Format("Class name : {0}", type.Name));
                 var arr = type.GetCustomAttributes(attributeType) as MyAttributeTestAttribute[];
                 foreach (var item in arr)
                 {
@@ -58,7 +58,7 @@ namespace AttributeDemo
             {
                 if (Attribute.IsDefined(p, attributeType))
                 {
-                    ConsolePrint.Message($"Property name : {p.Name}");
+                    ConsolePrint.Message(string.Format("Property name : {0}", p.Name));
                     var arr = p.GetCustomAttributes(attributeType) as MyAttributeTestAttribute[];
                     foreach (var item in arr)
                     {
@@ -79,7 +79,7 @@ namespace AttributeDemo
             {
                 if (Attribute.IsDefined(m, attributeType))
                 {
-                    ConsolePrint.Message($"Method name : {m.Name}");
+                    ConsolePrint.Message(string.Format("Method name : {0}", m.Name));
                     var arr = m.GetCustomAttributes(attributeType) as MyAttributeTestAttribute[];
                     foreach (var item in arr)
                     {
