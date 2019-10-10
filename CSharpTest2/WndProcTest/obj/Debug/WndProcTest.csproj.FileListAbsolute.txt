@@ -10,3 +10,9 @@ D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\WndProcTest\obj
 E:\C#\Git\CSharpTest\CSharpTest2\WndProcTest\bin\Debug\WndProcTest.exe.config
 E:\C#\Git\CSharpTest\CSharpTest2\WndProcTest\obj\Debug\WndProcTest.exe
 E:\C#\Git\CSharpTest\CSharpTest2\WndProcTest\obj\Debug\WndProcTest.pdb
+E:\C#\Git\CSharpTest\CSharpTest2\WndProcTest\bin\Debug\WndProcTest.exe
+E:\C#\Git\CSharpTest\CSharpTest2\WndProcTest\bin\Debug\WndProcTest.pdb
+E:\C#\Git\CSharpTest\CSharpTest2\WndProcTest\obj\Debug\WndProcTest.csprojResolveAssemblyReference.cache
+E:\C#\Git\CSharpTest\CSharpTest2\WndProcTest\obj\Debug\WndProcTest.Properties.Resources.resources
+E:\C#\Git\CSharpTest\CSharpTest2\WndProcTest\obj\Debug\WndProcTest.TestForm.resources
+E:\C#\Git\CSharpTest\CSharpTest2\WndProcTest\obj\Debug\WndProcTest.csproj.GenerateResource.Cache
