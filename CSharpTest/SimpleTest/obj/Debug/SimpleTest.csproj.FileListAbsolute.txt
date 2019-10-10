@@ -1,0 +1,5 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\SimpleTest\bin\Debug\SimpleTest.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\SimpleTest\bin\Debug\SimpleTest.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\SimpleTest\bin\Debug\SimpleTest.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\SimpleTest\obj\Debug\SimpleTest.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\SimpleTest\obj\Debug\SimpleTest.pdb

@@ -1,0 +1,6 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\SleepBreak\bin\Debug\SleepBreak.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\SleepBreak\bin\Debug\SleepBreak.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\SleepBreak\bin\Debug\SleepBreak.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\SleepBreak\obj\Debug\SleepBreak.csprojResolveAssemblyReference.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\SleepBreak\obj\Debug\SleepBreak.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\SleepBreak\obj\Debug\SleepBreak.pdb

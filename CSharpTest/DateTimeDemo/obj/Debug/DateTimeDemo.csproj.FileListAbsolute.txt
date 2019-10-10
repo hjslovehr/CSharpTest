@@ -1,0 +1,8 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DateTimeDemo\bin\Debug\DateTimeDemo.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DateTimeDemo\bin\Debug\DateTimeDemo.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DateTimeDemo\bin\Debug\DateTimeDemo.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DateTimeDemo\obj\Debug\DateTimeDemo.csprojResolveAssemblyReference.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DateTimeDemo\obj\Debug\DateTimeDemo.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DateTimeDemo\obj\Debug\DateTimeDemo.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DateTimeDemo\obj\Debug\DateTimeDemo.Form1.resources
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DateTimeDemo\obj\Debug\DateTimeDemo.csproj.GenerateResource.Cache

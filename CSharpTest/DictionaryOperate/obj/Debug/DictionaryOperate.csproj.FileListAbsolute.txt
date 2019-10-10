@@ -1,0 +1,6 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DictionaryOperate\bin\Debug\DictionaryOperate.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DictionaryOperate\bin\Debug\DictionaryOperate.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DictionaryOperate\bin\Debug\DictionaryOperate.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DictionaryOperate\obj\Debug\DictionaryOperate.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DictionaryOperate\obj\Debug\DictionaryOperate.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DictionaryOperate\obj\Debug\DictionaryOperate.csprojResolveAssemblyReference.cache

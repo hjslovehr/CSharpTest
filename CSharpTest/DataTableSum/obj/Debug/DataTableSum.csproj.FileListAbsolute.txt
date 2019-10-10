@@ -1,0 +1,5 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DataTableSum\bin\Debug\DataTableSum.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DataTableSum\bin\Debug\DataTableSum.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DataTableSum\bin\Debug\DataTableSum.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DataTableSum\obj\Debug\DataTableSum.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DataTableSum\obj\Debug\DataTableSum.pdb

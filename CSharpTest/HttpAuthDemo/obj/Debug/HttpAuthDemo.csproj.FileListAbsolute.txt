@@ -1,0 +1,5 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\HttpAuthDemo\bin\Debug\HttpAuthDemo.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\HttpAuthDemo\bin\Debug\HttpAuthDemo.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\HttpAuthDemo\bin\Debug\HttpAuthDemo.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\HttpAuthDemo\obj\Debug\HttpAuthDemo.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\HttpAuthDemo\obj\Debug\HttpAuthDemo.pdb

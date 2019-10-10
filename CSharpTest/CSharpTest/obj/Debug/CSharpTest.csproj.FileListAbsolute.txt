@@ -1,0 +1,6 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\CSharpTest\bin\Debug\CSharpTest.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\CSharpTest\bin\Debug\CSharpTest.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\CSharpTest\bin\Debug\CSharpTest.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\CSharpTest\obj\Debug\CSharpTest.csprojResolveAssemblyReference.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\CSharpTest\obj\Debug\CSharpTest.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\CSharpTest\obj\Debug\CSharpTest.pdb

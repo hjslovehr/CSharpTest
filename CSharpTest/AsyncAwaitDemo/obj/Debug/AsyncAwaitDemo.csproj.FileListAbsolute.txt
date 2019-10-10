@@ -1,0 +1,7 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\AsyncAwaitDemo\bin\Debug\AsyncAwaitDemo.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\AsyncAwaitDemo\bin\Debug\AsyncAwaitDemo.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\AsyncAwaitDemo\bin\Debug\AsyncAwaitDemo.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.Form1.resources
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\UriDemo\bin\Debug\UriDemo.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\UriDemo\bin\Debug\UriDemo.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\UriDemo\bin\Debug\UriDemo.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\UriDemo\obj\Debug\UriDemo.csprojResolveAssemblyReference.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\UriDemo\obj\Debug\UriDemo.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\UriDemo\obj\Debug\UriDemo.pdb
