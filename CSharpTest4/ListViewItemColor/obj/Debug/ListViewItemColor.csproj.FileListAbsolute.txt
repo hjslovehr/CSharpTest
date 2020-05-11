@@ -1,0 +1,8 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\ListViewItemColor\bin\Debug\ListViewItemColor.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\ListViewItemColor\bin\Debug\ListViewItemColor.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\ListViewItemColor\bin\Debug\ListViewItemColor.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\ListViewItemColor\obj\Debug\ListViewItemColor.FrmMain.resources
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\ListViewItemColor\obj\Debug\ListViewItemColor.Properties.Resources.resources
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\ListViewItemColor\obj\Debug\ListViewItemColor.csproj.GenerateResource.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\ListViewItemColor\obj\Debug\ListViewItemColor.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\ListViewItemColor\obj\Debug\ListViewItemColor.pdb
