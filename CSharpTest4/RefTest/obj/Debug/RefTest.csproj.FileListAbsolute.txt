@@ -1,0 +1,11 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RefTest\bin\Debug\RefTest.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RefTest\bin\Debug\RefTest.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RefTest\bin\Debug\RefTest.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RefTest\obj\Debug\RefTest.csprojAssemblyReference.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RefTest\obj\Debug\RefTest.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RefTest\obj\Debug\RefTest.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RefTest\bin\Debug\PlatformConfig.xml
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RefTest\bin\Debug\lib1Config.xml
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RefTest\bin\Debug\RefLib1.dll
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RefTest\bin\Debug\RefLib1.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RefTest\obj\Debug\RefTest.csproj.CopyComplete

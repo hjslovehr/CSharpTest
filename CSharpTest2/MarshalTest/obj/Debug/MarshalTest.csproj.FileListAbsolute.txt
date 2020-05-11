@@ -1,0 +1,8 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\MarshalTest\bin\Debug\MarshalTest.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\MarshalTest\bin\Debug\MarshalTest.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\MarshalTest\obj\Debug\MarshalTest.csprojAssemblyReference.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\MarshalTest\obj\Debug\MarshalTest.Properties.Resources.resources
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\MarshalTest\obj\Debug\MarshalTest.csproj.GenerateResource.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\MarshalTest\obj\Debug\MarshalTest.csproj.CoreCompileInputs.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\MarshalTest\obj\Debug\MarshalTest.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\MarshalTest\obj\Debug\MarshalTest.pdb

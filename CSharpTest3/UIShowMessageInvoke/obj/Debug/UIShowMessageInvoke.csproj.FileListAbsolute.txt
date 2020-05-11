@@ -1,0 +1,9 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\UIShowMessageInvoke\bin\Debug\UIShowMessageInvoke.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\UIShowMessageInvoke\bin\Debug\UIShowMessageInvoke.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\UIShowMessageInvoke\bin\Debug\UIShowMessageInvoke.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\UIShowMessageInvoke\obj\Debug\UIShowMessageInvoke.csprojAssemblyReference.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\UIShowMessageInvoke\obj\Debug\UIShowMessageInvoke.FrmMain.resources
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\UIShowMessageInvoke\obj\Debug\UIShowMessageInvoke.Properties.Resources.resources
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\UIShowMessageInvoke\obj\Debug\UIShowMessageInvoke.csproj.GenerateResource.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\UIShowMessageInvoke\obj\Debug\UIShowMessageInvoke.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\UIShowMessageInvoke\obj\Debug\UIShowMessageInvoke.pdb

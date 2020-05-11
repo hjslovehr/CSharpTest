@@ -1,11 +1,7 @@
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\EncodingDemo\bin\Debug\EncodingDemo.exe.config
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\EncodingDemo\bin\Debug\EncodingDemo.exe
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\EncodingDemo\bin\Debug\EncodingDemo.pdb
-D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\EncodingDemo\obj\Debug\EncodingDemo.csprojResolveAssemblyReference.cache
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\EncodingDemo\obj\Debug\EncodingDemo.exe
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\EncodingDemo\obj\Debug\EncodingDemo.pdb
-E:\C#\Git\CSharpTest\CSharpTest2\EncodingDemo\bin\Debug\EncodingDemo.exe.config
-E:\C#\Git\CSharpTest\CSharpTest2\EncodingDemo\obj\Debug\EncodingDemo.exe
-E:\C#\Git\CSharpTest\CSharpTest2\EncodingDemo\obj\Debug\EncodingDemo.pdb
-E:\C#\Git\CSharpTest\CSharpTest2\EncodingDemo\bin\Debug\EncodingDemo.exe
-E:\C#\Git\CSharpTest\CSharpTest2\EncodingDemo\bin\Debug\EncodingDemo.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\EncodingDemo\obj\Debug\EncodingDemo.csprojAssemblyReference.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\EncodingDemo\obj\Debug\EncodingDemo.csproj.CoreCompileInputs.cache

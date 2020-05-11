@@ -3,3 +3,4 @@ D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\HttpAuthDemo\bin
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\HttpAuthDemo\bin\Debug\HttpAuthDemo.pdb
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\HttpAuthDemo\obj\Debug\HttpAuthDemo.exe
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\HttpAuthDemo\obj\Debug\HttpAuthDemo.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\HttpAuthDemo\obj\Debug\HttpAuthDemo.csprojAssemblyReference.cache

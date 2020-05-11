@@ -1,0 +1,4 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\DateTimeTest\bin\Release\DateTimeTest.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\DateTimeTest\bin\Release\DateTimeTest.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\DateTimeTest\obj\Release\DateTimeTest.csproj.CoreCompileInputs.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\DateTimeTest\obj\Release\DateTimeTest.exe

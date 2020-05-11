@@ -3,4 +3,4 @@ D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\CSharpTest\bin\D
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\CSharpTest\bin\Debug\GetExeRunRam.pdb
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\CSharpTest\obj\Debug\GetExeRunRam.exe
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\CSharpTest\obj\Debug\GetExeRunRam.pdb
-D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\CSharpTest\obj\Debug\GetExeRunRam.csprojResolveAssemblyReference.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\CSharpTest\obj\Debug\GetExeRunRam.csprojAssemblyReference.cache

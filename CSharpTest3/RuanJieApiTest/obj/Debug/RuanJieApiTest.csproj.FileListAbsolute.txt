@@ -1,0 +1,8 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\RuanJieApiTest\bin\Debug\RuanJieApiTest.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\RuanJieApiTest\bin\Debug\RuanJieApiTest.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\RuanJieApiTest\bin\Debug\RuanJieApiTest.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\RuanJieApiTest\bin\Debug\Newtonsoft.Json.dll
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\RuanJieApiTest\obj\Debug\RuanJieApiTest.csproj.CopyComplete
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\RuanJieApiTest\obj\Debug\RuanJieApiTest.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\RuanJieApiTest\obj\Debug\RuanJieApiTest.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\RuanJieApiTest\obj\Debug\RuanJieApiTest.csprojAssemblyReference.cache

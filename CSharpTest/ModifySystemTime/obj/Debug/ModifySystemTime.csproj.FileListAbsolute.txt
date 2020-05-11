@@ -5,3 +5,4 @@ D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\ModifySystemTime
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\ModifySystemTime\obj\Debug\ModifySystemTime.pdb
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\ModifySystemTime\obj\Debug\ModifySystemTime.Form1.resources
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\ModifySystemTime\obj\Debug\ModifySystemTime.csproj.GenerateResource.Cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\ModifySystemTime\obj\Debug\ModifySystemTime.csprojAssemblyReference.cache

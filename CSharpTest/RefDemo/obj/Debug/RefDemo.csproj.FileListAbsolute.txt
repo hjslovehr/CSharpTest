@@ -3,4 +3,4 @@ D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\RefDemo\bin\Debu
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\RefDemo\bin\Debug\RefDemo.pdb
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\RefDemo\obj\Debug\RefDemo.exe
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\RefDemo\obj\Debug\RefDemo.pdb
-D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\RefDemo\obj\Debug\RefDemo.csprojResolveAssemblyReference.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\RefDemo\obj\Debug\RefDemo.csprojAssemblyReference.cache

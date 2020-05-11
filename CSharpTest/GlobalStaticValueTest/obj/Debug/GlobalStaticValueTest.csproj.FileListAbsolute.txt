@@ -3,9 +3,10 @@ D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\GlobalStaticValu
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\GlobalStaticValueTest\bin\Debug\GlobalStaticValueTest.pdb
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\GlobalStaticValueTest\bin\Debug\GlobalStaticValue.dll
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\GlobalStaticValueTest\bin\Debug\GlobalStaticValue.pdb
-D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\GlobalStaticValueTest\obj\Debug\GlobalStaticValueTest.csprojResolveAssemblyReference.cache
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\GlobalStaticValueTest\obj\Debug\GlobalStaticValueTest.FrmMain.resources
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\GlobalStaticValueTest\obj\Debug\GlobalStaticValueTest.Properties.Resources.resources
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\GlobalStaticValueTest\obj\Debug\GlobalStaticValueTest.csproj.GenerateResource.Cache
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\GlobalStaticValueTest\obj\Debug\GlobalStaticValueTest.exe
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\GlobalStaticValueTest\obj\Debug\GlobalStaticValueTest.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\GlobalStaticValueTest\obj\Debug\GlobalStaticValueTest.csprojAssemblyReference.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\GlobalStaticValueTest\obj\Debug\GlobalStaticValueTest.csproj.CopyComplete

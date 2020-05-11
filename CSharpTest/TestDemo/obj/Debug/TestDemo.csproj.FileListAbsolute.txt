@@ -1,6 +1,6 @@
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\TestDemo\bin\Debug\TestDemo.exe.config
-D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\TestDemo\obj\Debug\TestDemo.csprojResolveAssemblyReference.cache
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\TestDemo\bin\Debug\TestDemo.exe
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\TestDemo\bin\Debug\TestDemo.pdb
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\TestDemo\obj\Debug\TestDemo.exe
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\TestDemo\obj\Debug\TestDemo.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\TestDemo\obj\Debug\TestDemo.csprojAssemblyReference.cache

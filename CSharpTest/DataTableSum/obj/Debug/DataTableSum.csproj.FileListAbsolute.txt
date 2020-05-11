@@ -3,3 +3,4 @@ D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DataTableSum\bin
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DataTableSum\bin\Debug\DataTableSum.pdb
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DataTableSum\obj\Debug\DataTableSum.exe
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DataTableSum\obj\Debug\DataTableSum.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DataTableSum\obj\Debug\DataTableSum.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RefLib1\bin\Debug\lib1Config.xml
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RefLib1\bin\Debug\RefLib1.dll
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RefLib1\bin\Debug\RefLib1.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RefLib1\obj\Debug\RefLib1.dll
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RefLib1\obj\Debug\RefLib1.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RefLib1\obj\Debug\RefLib1.csprojAssemblyReference.cache

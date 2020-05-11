@@ -1,0 +1,6 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\DeleteDirectory\bin\Debug\DeleteDirectory.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\DeleteDirectory\bin\Debug\DeleteDirectory.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\DeleteDirectory\bin\Debug\DeleteDirectory.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\DeleteDirectory\obj\Debug\DeleteDirectory.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\DeleteDirectory\obj\Debug\DeleteDirectory.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\DeleteDirectory\obj\Debug\DeleteDirectory.csprojAssemblyReference.cache

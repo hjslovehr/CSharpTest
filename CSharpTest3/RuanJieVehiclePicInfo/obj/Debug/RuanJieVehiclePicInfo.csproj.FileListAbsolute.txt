@@ -1,0 +1,8 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\RuanJieVehiclePicInfo\bin\Debug\RuanJieVehiclePicInfo.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\RuanJieVehiclePicInfo\bin\Debug\RuanJieVehiclePicInfo.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\RuanJieVehiclePicInfo\bin\Debug\RuanJieVehiclePicInfo.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\RuanJieVehiclePicInfo\bin\Debug\Newtonsoft.Json.dll
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\RuanJieVehiclePicInfo\obj\Debug\RuanJieVehiclePicInfo.csprojAssemblyReference.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\RuanJieVehiclePicInfo\obj\Debug\RuanJieVehiclePicInfo.csproj.CopyComplete
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\RuanJieVehiclePicInfo\obj\Debug\RuanJieVehiclePicInfo.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\RuanJieVehiclePicInfo\obj\Debug\RuanJieVehiclePicInfo.pdb

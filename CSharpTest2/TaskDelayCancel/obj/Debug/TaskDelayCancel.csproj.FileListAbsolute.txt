@@ -1,0 +1,7 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\TaskDelayCancel\bin\Debug\TaskDelayCancel.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\TaskDelayCancel\bin\Debug\TaskDelayCancel.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\TaskDelayCancel\bin\Debug\TaskDelayCancel.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\TaskDelayCancel\obj\Debug\TaskDelayCancel.csprojAssemblyReference.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\TaskDelayCancel\obj\Debug\TaskDelayCancel.csproj.CoreCompileInputs.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\TaskDelayCancel\obj\Debug\TaskDelayCancel.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\TaskDelayCancel\obj\Debug\TaskDelayCancel.pdb

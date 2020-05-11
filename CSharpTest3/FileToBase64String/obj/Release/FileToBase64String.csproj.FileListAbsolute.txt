@@ -1,0 +1,4 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\FileToBase64String\bin\Release\FileToBase64String.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\FileToBase64String\bin\Release\FileToBase64String.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\FileToBase64String\obj\Release\FileToBase64String.csproj.CoreCompileInputs.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest3\FileToBase64String\obj\Release\FileToBase64String.exe

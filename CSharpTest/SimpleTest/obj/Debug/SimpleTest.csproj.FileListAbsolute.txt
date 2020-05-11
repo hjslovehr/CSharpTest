@@ -3,3 +3,4 @@ D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\SimpleTest\bin\D
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\SimpleTest\bin\Debug\SimpleTest.pdb
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\SimpleTest\obj\Debug\SimpleTest.exe
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\SimpleTest\obj\Debug\SimpleTest.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\SimpleTest\obj\Debug\SimpleTest.csprojAssemblyReference.cache

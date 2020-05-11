@@ -1,0 +1,9 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RichTextBoxDemo\bin\Debug\RichTextBoxDemo.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RichTextBoxDemo\bin\Debug\RichTextBoxDemo.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RichTextBoxDemo\bin\Debug\RichTextBoxDemo.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RichTextBoxDemo\obj\Debug\RichTextBoxDemo.csprojAssemblyReference.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RichTextBoxDemo\obj\Debug\RichTextBoxDemo.FrmMain.resources
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RichTextBoxDemo\obj\Debug\RichTextBoxDemo.Properties.Resources.resources
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RichTextBoxDemo\obj\Debug\RichTextBoxDemo.csproj.GenerateResource.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RichTextBoxDemo\obj\Debug\RichTextBoxDemo.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\RichTextBoxDemo\obj\Debug\RichTextBoxDemo.pdb

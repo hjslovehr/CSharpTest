@@ -1,0 +1,10 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ThreadSafeStop\bin\Debug\ThreadSafeStop.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ThreadSafeStop\bin\Debug\ThreadSafeStop.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ThreadSafeStop\bin\Debug\ThreadSafeStop.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ThreadSafeStop\obj\Debug\ThreadSafeStop.FrmMain.resources
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ThreadSafeStop\obj\Debug\ThreadSafeStop.Properties.Resources.resources
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ThreadSafeStop\obj\Debug\ThreadSafeStop.csproj.GenerateResource.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ThreadSafeStop\obj\Debug\ThreadSafeStop.csproj.CoreCompileInputs.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ThreadSafeStop\obj\Debug\ThreadSafeStop.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ThreadSafeStop\obj\Debug\ThreadSafeStop.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ThreadSafeStop\obj\Debug\ThreadSafeStop.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\MD5Creator\bin\Debug\MD5Creator.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\MD5Creator\bin\Debug\MD5Creator.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\MD5Creator\bin\Debug\MD5Creator.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\MD5Creator\obj\Debug\MD5Creator.FrmMain.resources
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\MD5Creator\obj\Debug\MD5Creator.Properties.Resources.resources
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\MD5Creator\obj\Debug\MD5Creator.csproj.GenerateResource.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\MD5Creator\obj\Debug\MD5Creator.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\MD5Creator\obj\Debug\MD5Creator.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\MD5Creator\obj\Debug\MD5Creator.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ConfigDemo\bin\Debug\ConfigDemo.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ConfigDemo\bin\Debug\ConfigDemo.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ConfigDemo\obj\Debug\ConfigDemo.csproj.CoreCompileInputs.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ConfigDemo\obj\Debug\ConfigDemo.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ConfigDemo\obj\Debug\ConfigDemo.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ConfigDemo\bin\Debug\ConfigDemo.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ConfigDemo\obj\Debug\ConfigDemo.csprojAssemblyReference.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ConfigDemo\bin\Debug\MyApp.config

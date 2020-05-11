@@ -3,9 +3,5 @@ D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\AttributeDemo\b
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\AttributeDemo\bin\Debug\AttributeDemo.pdb
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\AttributeDemo\obj\Debug\AttributeDemo.exe
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\AttributeDemo\obj\Debug\AttributeDemo.pdb
-D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\AttributeDemo\obj\Debug\AttributeDemo.csprojResolveAssemblyReference.cache
-E:\C#\Git\CSharpTest\CSharpTest2\AttributeDemo\bin\Debug\AttributeDemo.exe.config
-E:\C#\Git\CSharpTest\CSharpTest2\AttributeDemo\obj\Debug\AttributeDemo.exe
-E:\C#\Git\CSharpTest\CSharpTest2\AttributeDemo\obj\Debug\AttributeDemo.pdb
-E:\C#\Git\CSharpTest\CSharpTest2\AttributeDemo\bin\Debug\AttributeDemo.exe
-E:\C#\Git\CSharpTest\CSharpTest2\AttributeDemo\bin\Debug\AttributeDemo.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\AttributeDemo\obj\Debug\AttributeDemo.csprojAssemblyReference.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\AttributeDemo\obj\Debug\AttributeDemo.csproj.CoreCompileInputs.cache

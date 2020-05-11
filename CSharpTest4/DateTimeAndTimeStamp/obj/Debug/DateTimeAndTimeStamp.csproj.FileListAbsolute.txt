@@ -1,0 +1,6 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\DateTimeAndTimeStamp\bin\Debug\DateTimeAndTimeStamp.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\DateTimeAndTimeStamp\bin\Debug\DateTimeAndTimeStamp.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\DateTimeAndTimeStamp\bin\Debug\DateTimeAndTimeStamp.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\DateTimeAndTimeStamp\obj\Debug\DateTimeAndTimeStamp.csprojAssemblyReference.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\DateTimeAndTimeStamp\obj\Debug\DateTimeAndTimeStamp.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\DateTimeAndTimeStamp\obj\Debug\DateTimeAndTimeStamp.pdb

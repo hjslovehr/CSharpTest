@@ -2,3 +2,4 @@ D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\GlobalStaticValu
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\GlobalStaticValue\bin\Debug\GlobalStaticValue.pdb
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\GlobalStaticValue\obj\Debug\GlobalStaticValue.dll
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\GlobalStaticValue\obj\Debug\GlobalStaticValue.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\GlobalStaticValue\obj\Debug\GlobalStaticValue.csprojAssemblyReference.cache

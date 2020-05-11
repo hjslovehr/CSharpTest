@@ -1,0 +1,14 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\FastExportRecordToExcel\bin\Release\Template\进出记录.xlsx
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\FastExportRecordToExcel\bin\Release\FastExportRecordToExcel.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\FastExportRecordToExcel\bin\Release\FastExportRecordToExcel.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\FastExportRecordToExcel\bin\Release\FastExportRecordToExcel.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\FastExportRecordToExcel\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\FastExportRecordToExcel\bin\Release\NPOI.dll
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\FastExportRecordToExcel\bin\Release\NPOI.OOXML.dll
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\FastExportRecordToExcel\bin\Release\NPOI.OpenXml4Net.dll
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\FastExportRecordToExcel\bin\Release\NPOI.OpenXmlFormats.dll
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\FastExportRecordToExcel\bin\Release\NPOI.xml
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\FastExportRecordToExcel\obj\Release\FastExportRecordToExcel.csprojAssemblyReference.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\FastExportRecordToExcel\obj\Release\FastExportRecordToExcel.csproj.CopyComplete
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\FastExportRecordToExcel\obj\Release\FastExportRecordToExcel.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\FastExportRecordToExcel\obj\Release\FastExportRecordToExcel.pdb

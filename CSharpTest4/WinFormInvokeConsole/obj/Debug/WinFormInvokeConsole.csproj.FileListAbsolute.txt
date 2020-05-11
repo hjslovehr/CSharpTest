@@ -1,0 +1,9 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\WinFormInvokeConsole\bin\Debug\WinFormInvokeConsole.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\WinFormInvokeConsole\bin\Debug\WinFormInvokeConsole.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\WinFormInvokeConsole\bin\Debug\WinFormInvokeConsole.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\WinFormInvokeConsole\obj\Debug\WinFormInvokeConsole.csprojAssemblyReference.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\WinFormInvokeConsole\obj\Debug\WinFormInvokeConsole.FrmMain.resources
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\WinFormInvokeConsole\obj\Debug\WinFormInvokeConsole.Properties.Resources.resources
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\WinFormInvokeConsole\obj\Debug\WinFormInvokeConsole.csproj.GenerateResource.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\WinFormInvokeConsole\obj\Debug\WinFormInvokeConsole.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\WinFormInvokeConsole\obj\Debug\WinFormInvokeConsole.pdb

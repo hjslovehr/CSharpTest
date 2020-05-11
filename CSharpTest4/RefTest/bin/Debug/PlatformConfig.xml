@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PlatformList>
+  <Platform Name="宇视NVR_S300_R24" Key="Uniview_NVR_S300_R24" Value="RefTest.Platform.ImplementPlatform.Uniview.Uniview_NVR_S300_R24" />
+  <Platform Name="天地伟业TdyEasy7_8_5" Key="TdyEasy7_8_5" Value="RefTest.Platform.ImplementPlatform.Tiandy.TdyEasy7_8_5" />
+  <Platform Name="天地伟业TdyNvrs_4_2" Key="TdyNvrs_4_2" Value="RefTest.Platform.ImplementPlatform.Tiandy.TdyNvrs_4_2" />
+  <Platform Name="中控智慧ZKPad" Key="ZKPad" Value="RefTest.Platform.ImplementPlatform.ZKteco.ZKPad" />
+</PlatformList>

@@ -1,0 +1,10 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ByteAndImage\bin\Debug\ByteAndImage.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ByteAndImage\bin\Debug\ByteAndImage.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ByteAndImage\bin\Debug\ByteAndImage.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ByteAndImage\obj\Debug\ByteAndImage.csprojAssemblyReference.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ByteAndImage\obj\Debug\ByteAndImage.FrmMain.resources
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ByteAndImage\obj\Debug\ByteAndImage.Properties.Resources.resources
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ByteAndImage\obj\Debug\ByteAndImage.csproj.GenerateResource.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ByteAndImage\obj\Debug\ByteAndImage.csproj.CoreCompileInputs.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ByteAndImage\obj\Debug\ByteAndImage.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest2\ByteAndImage\obj\Debug\ByteAndImage.pdb

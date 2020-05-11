@@ -1,0 +1,9 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\SqlConnectionTest\bin\Debug\SqlConnectionTest.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\SqlConnectionTest\bin\Debug\SqlConnectionTest.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\SqlConnectionTest\bin\Debug\SqlConnectionTest.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\SqlConnectionTest\obj\Debug\SqlConnectionTest.Properties.Resources.resources
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\SqlConnectionTest\obj\Debug\SqlConnectionTest.csproj.GenerateResource.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\SqlConnectionTest\obj\Debug\SqlConnectionTest.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\SqlConnectionTest\obj\Debug\SqlConnectionTest.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\SqlConnectionTest\obj\Debug\SqlConnectionTest.FrmMain.resources
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\SqlConnectionTest\obj\Debug\SqlConnectionTest.csprojAssemblyReference.cache

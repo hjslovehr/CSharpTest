@@ -3,4 +3,4 @@ D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DictionaryOperat
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DictionaryOperate\bin\Debug\DictionaryOperate.pdb
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DictionaryOperate\obj\Debug\DictionaryOperate.exe
 D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DictionaryOperate\obj\Debug\DictionaryOperate.pdb
-D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DictionaryOperate\obj\Debug\DictionaryOperate.csprojResolveAssemblyReference.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest\DictionaryOperate\obj\Debug\DictionaryOperate.csprojAssemblyReference.cache

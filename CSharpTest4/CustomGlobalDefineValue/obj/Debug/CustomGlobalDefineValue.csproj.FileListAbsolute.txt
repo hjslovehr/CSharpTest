@@ -1,0 +1,6 @@
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\CustomGlobalDefineValue\bin\Debug\CustomGlobalDefineValue.exe.config
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\CustomGlobalDefineValue\bin\Debug\CustomGlobalDefineValue.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\CustomGlobalDefineValue\bin\Debug\CustomGlobalDefineValue.pdb
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\CustomGlobalDefineValue\obj\Debug\CustomGlobalDefineValue.csprojAssemblyReference.cache
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\CustomGlobalDefineValue\obj\Debug\CustomGlobalDefineValue.exe
+D:\Work\HjsWorkspace\HjsWorkspace\HjsWorkspace\Study\CSharpTest4\CustomGlobalDefineValue\obj\Debug\CustomGlobalDefineValue.pdb
